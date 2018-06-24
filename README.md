@@ -11,6 +11,7 @@ This plugin works across all browsers IE, Firefox, Microsoft Edge & Google chrom
 It is basically checking GUID of the window against value in cookie<br/>
 
 Sample usage:
+```
     <script type="text/javascript">
         $(document).ready(function () {
             if (window.IsDuplicate()) {
@@ -19,3 +20,4 @@ Sample usage:
             }
         });
     </script>
+```
