@@ -19,5 +19,6 @@ Sample usage:
     </script>
 ```
 
+[demo](http://nitinsawant.com/jquery-duplicatewindow/TestPage.html)
 
 [click here to donate if you find this project helpful](https://paypal.me/nitinsa1?locale.x=en_GB)
